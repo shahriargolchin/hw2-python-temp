@@ -34,15 +34,15 @@ class Test_hw2_q8(TestCase):
 
     def test_q8_2_directional(self):
         query = "schizophrenia /2 drug"
-        gold_q72 = [Document("Doc2", 1, 2)]
-        ans_q72 = InvertedIndex(self.input_path).q7_2(query)
+        gold_q82 = [Document("Doc2", 1, 2)]
+        ans_q82 = InvertedIndex(self.input_path).q8_2(query)
 
-        assert ans_q72 is not None
-        assert type(ans_q72) is list
-        assert len(ans_q72) > 0
-        assert len(ans_q72) == 1
+        assert ans_q82 is not None
+        assert type(ans_q82) is list
+        assert len(ans_q82) > 0
+        assert len(ans_q82) == 1
 
-        for gold, ans in zip(gold_q72, ans_q72):
+        for gold, ans in zip(gold_q82, ans_q82):
             gold.__eq__(ans)
 
 

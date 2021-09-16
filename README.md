@@ -28,7 +28,7 @@ just created. Your command must be similar to :
 
 # Write your code
 
-You will implement one function for each of the sub questions of Q8, Eg:` def q8_1(self,query):` inside 
+You will implement one function for each of the sub questions of Q8, Eg:` def q8_1_1(self,query):` inside 
 the class `InvertedIndex`(src/main/python/edu/arizona/cs/invertedindex.py). These functions should return the documents in the right order , as asked in the question. 
 
 Also, you **should not edit** these files:

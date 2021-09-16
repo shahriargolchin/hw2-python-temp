@@ -35,7 +35,7 @@ Also, you **should not edit** these files:
 - `.travis.yml`
 - `src/main/resources/Docs.txt`
 - `src/main/python/edu/arizona/cs/document.py`
-- `src/test/python/edu/arizona/cs/test_hw2_q7.py`
+- `src/test/python/edu/arizona/cs/test_hw2_q8.py`
 
 **Note: The file `src/main/resources/Docs.txt` is the input file you must use as per hw1 guidelines. Please don't edit it or move it.**
 

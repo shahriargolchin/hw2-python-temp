@@ -21,9 +21,9 @@ GitHub repository to hold your work.
 - Create a [branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) through the GitHub interface.
 - Name your `<branch>` as `yourlastname_yourfirstname_dev` (**very important , do NOT name it anything else**)
 - Clone the repository to your local machine and checkout the branch you
-just created. Your command must be similar to :
+just created. Your command must be similar to:
    ```
-   git clone -b <branch> https://github.com/cs4583fall2020/python-hw1-<your-username>.git
+   git clone -b <branch> https://github.com/CSC-483-583-Fall-2021/hw2-python-<your-username>.git
    ```
 
 # Write your code
